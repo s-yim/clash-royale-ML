@@ -44,7 +44,7 @@ Predict a player's trophy count based on player data such as cards, achievements
 ### Next Steps ###
 * Increase processing power and time.
 * Perform cross-validation to estimate the models performance and predictive power. 
-* Examine feature importance scores to identify the most influnetial features and underlying relationships in the data.
+* Examine feature importance scores to identify the most influential features and underlying relationships in the data.
 * Run the model using RandomizedSearchCV with parameters.
 * Run the model using GridSearchCV and even more parameters.
   
